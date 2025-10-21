@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+{Odalopheim}....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+{Oda Lunde Opheim}....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -119,7 +119,7 @@ I'm a passionate **{your_profession}** from **{your_location}** with a love for 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username={github_username}&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username={Odalopheim}&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
