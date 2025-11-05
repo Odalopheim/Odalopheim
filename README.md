@@ -12,10 +12,11 @@ php,html,css,react,git,docker,mysql,nodejs,bootstrap,java,linux
 
 ## Techstack
  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
- <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
- <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
- <img src="https://skillicons.dev/icons?i=python" alt="Python" />
- <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" />
+<img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+<img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+<img src="https://skillicons.dev/icons?i=python" alt="Python" />
+<img src="https://skillicons.dev/icons?i=javascript" alt="javascript" />
+<img src="https://skillicons.dev/icons?i=java" alt="java" />
 ## Connect with Me
 
 {"linkedin":"https://www.linkedin.com/in/odalundeopheim"}
