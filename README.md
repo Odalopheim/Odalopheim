@@ -10,11 +10,11 @@ php,html,css,react,git,docker,mysql,nodejs,bootstrap,java,linux
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Odalopheim&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odalopheim&layout=compact" alt="" />
 
-##Techstack
+## Techstack
  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
  <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
- <img src="https://skillicons.dev/icons?i=pyhton" alt="Python" />
+ <img src="https://skillicons.dev/icons?i=python" alt="Python" />
 ## Connect with Me
 
 {"linkedin":"https://www.linkedin.com/in/odalundeopheim"}
