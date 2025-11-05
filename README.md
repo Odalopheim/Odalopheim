@@ -15,6 +15,7 @@ php,html,css,react,git,docker,mysql,nodejs,bootstrap,java,linux
  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
  <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+ <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" />
 ## Connect with Me
 
 {"linkedin":"https://www.linkedin.com/in/odalundeopheim"}
