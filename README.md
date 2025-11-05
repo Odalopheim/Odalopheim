@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hei
 Check out my portfolio! https://portfolio-odalopheims-projects.vercel.app/ 
 
 ## Skills & Technologies
