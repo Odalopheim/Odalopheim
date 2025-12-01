@@ -7,8 +7,6 @@ php,html,css,react,git,docker,mysql,nodejs,bootstrap,java,linux
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odalopheim&show_icons=true&theme=radical)
-
-## Mest brukte språk
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odalopheim&layout=compact&theme=radical)
 
 
