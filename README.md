@@ -2,7 +2,7 @@
 Check out my portfolio! https://portfolio-odalopheims-projects.vercel.app/ 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odalopheim&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odalopheim_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odalopheim&layout=compact&theme=radical)
 
 
