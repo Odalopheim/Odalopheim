@@ -2,7 +2,6 @@
 Check out my portfolio! https://portfolio-odalopheims-projects.vercel.app/ 
 
 ## GitHub Stats
-</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odalopheim&layout=compact&theme=radical)
 </br>
 ![Oda's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmarkussen&show_icons=true&theme=radical)
